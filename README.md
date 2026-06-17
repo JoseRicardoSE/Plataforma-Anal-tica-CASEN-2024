@@ -109,4 +109,4 @@ plataforma-casen-2024/
 
 ## 🤝 Autores
 Desarrollado como trabajo práctico grupal de análisis de datos y desarrollo en Python.
-[https://www.linkedin.com/in/josé-ricardo-salgado-escalona-477331239]
+[]
