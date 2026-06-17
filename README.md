@@ -44,8 +44,8 @@ Sigue estos pasos para levantar el dashboard en tu computadora local.
 ### 1. Clonar el repositorio y preparar el entorno
 Clona el repositorio e instala las dependencias en un entorno virtual.
 ```bash
-git clone https://github.com/tu-usuario/plataforma-casen-2024.git
-cd plataforma-casen-2024
+git clone https://github.com/JoseRicardoSE/Dashboard_Asistencia_IA_CASEN-2024.git
+cd Dashboard_Asistencia_IA_CASEN-2024
 
 # Crear y activar entorno virtual
 python -m venv venv
