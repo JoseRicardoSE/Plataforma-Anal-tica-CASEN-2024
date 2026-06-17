@@ -1,0 +1,7 @@
+pandas>=2.0.0
+gradio>=4.0.0
+python-dotenv
+huggingface-hub
+numpy
+pyarrow
+fastparquet

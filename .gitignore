@@ -1,0 +1,18 @@
+# Bases de datos pesadas
+*.dta
+
+# Entorno virtual y temporales
+venv/
+env/
+__pycache__/
+*.pyc
+
+# Variables de entorno secretas
+.env
+
+# Archivos de SO
+.DS_Store
+Thumbs.db
+
+# Caché local
+.gradio/
